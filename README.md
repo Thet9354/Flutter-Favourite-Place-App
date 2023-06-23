@@ -60,20 +60,4 @@ The Flutter Favourite Place App allows you to document your favourite places by 
 - SQLite: a lightweight and embedded database system for storing app data locally.
 - Google Maps API: used for displaying the location of favourite places on a map.
 
-### Screenshots
 
-[Add screenshots or images showcasing the app's interface or features.]
-
-### License
-
-[Specify the license under which the app is released. For example, MIT License, Apache License, etc.]
-
-### Contributions
-
-Contributions to the Flutter Favourite Place App are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the repository.
-
-### Contact
-
-[Provide your contact information or any relevant links, such as your email address or GitHub profile, for users to reach out to you with questions or feedback.]
-
-That should give you a good starting point for documenting your Flutter Favourite Place app in the README file. Feel free to customize and add additional sections as needed.
