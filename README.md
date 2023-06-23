@@ -1,5 +1,3 @@
-Certainly! Here's a suggested README section for your Flutter Favourite Place app:
-
 ## Flutter Favourite Place App
 
 The Flutter Favourite Place App allows you to document your favourite places by capturing text, images, and location information. You can store this data in a SQLite database and even view the location on Google Maps.
